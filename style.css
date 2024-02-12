@@ -97,17 +97,27 @@ img {
     border-radius: 10px;
 }
 
+#img1 {
+    margin-left: 60%;
+    max-width: 350px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
+}
 #img2 {
-    width: 440px;
-    margin-top: -500px;
-
+    margin-left: 60%;
+    max-width: 350px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
 }
 
 #img3 {
     margin-left: 60%;
-    margin-top: -400px;
-    width: 500px;
-    height: 400px;
+    max-width: 350px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
 }
 
 #img4 {
